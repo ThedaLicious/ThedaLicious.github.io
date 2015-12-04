@@ -1,0 +1,27 @@
+
+h1{
+
+  color: purple;
+  font-style: helvetica;}
+
+.content {
+  position:relative;
+  left:500px;
+}
+
+img{
+  position: relative;
+  left: 375px;
+}
+
+.navbar{
+  margin:0 auto;
+  width:518px;
+}
+
+
+  .nav-button{
+    background-color:dodgerblue;
+    width:170px;
+    display:inline-block;
+  }
